@@ -121,7 +121,7 @@ The v7 agent learns emergent behaviors including strategic positioning, enemy ta
 
 ## Report
 
-The full technical report is available in [`SpaceDefender_Report.docx`](SpaceDefender_Report.docx), covering game design, algorithm implementation, system architecture, evaluation results, and challenges in detail.
+The full technical report is available in [`Assignment1-ZhouBojian.pdf`](Assignment1-ZhouBojian.pdf), covering game design, algorithm implementation, system architecture, evaluation results, and challenges in detail.
 
 ## References
 
